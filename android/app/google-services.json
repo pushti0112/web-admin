@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206820713845",
+    "project_id": "sportiwe-dev",
+    "storage_bucket": "sportiwe-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206820713845:android:d92ecfbe3f95cb4a731f3c",
+        "android_client_info": {
+          "package_name": "com.example.sportiwe_admin_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206820713845-jim0sin39fag3apok6l4q39rjlddih0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQ0fSW41QcHT4DrW1IpVYmukuLPUz-3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206820713845-jim0sin39fag3apok6l4q39rjlddih0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
